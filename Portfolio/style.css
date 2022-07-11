@@ -1,0 +1,38 @@
+h1{
+    color:#2d011f
+
+    
+}
+h2{
+    color:#bf5686
+}
+
+.header{
+    background-color: #504a0f;
+    display:flex;
+    justify-content:space-between;
+    font-color:#9a0f3d;
+    font-size:x-large;
+    border:#3fea57;
+}
+.grid{
+    background-color:#48ac19;
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap ;
+}
+.fotter{
+    display:flex;
+    background-color:#34fdea;
+    justify-content:flex-end;
+
+}
+.starter{
+    background-color:#4f8a9d;
+    display:flex;
+    flex-direction: column;
+    justify-content:first baseline;
+}
+body{
+    background-color: #D4D4D4;
+}
